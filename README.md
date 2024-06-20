@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there,  I'm Maíra ☀️🌈 👋
 
-<!--
-**mairamml/mairamml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I’m currently studying **Statistcs** at ***UFMG*** and **Mobile Development** at ***COLTEC/UFMG***
+- 🌐 From Belo Horizonte, Minas Gerais - **Brazil** 🇧🇷
+- 🔋 I'm into photography, cinema, and playing handball
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>  
+  <a href="https://www.linkedin.com/in/mairamaml" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+    
+<h4 align="left"> Languages:</h4>
+<img src="https://skillicons.dev/icons?i=java,python,swift,r,mysql,sqlite&theme=light" />
+    
+<h4 align="left">Tools:</h4>
+<img src="https://skillicons.dev/icons?i=notion,vscode,github,visualstudio,androidstudio,figma&theme=light" />
+    
+<h4 align="left">SO:</h4>
+<img src="https://skillicons.dev/icons?i=windows,apple,linux&theme=light" />
