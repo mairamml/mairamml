@@ -8,7 +8,7 @@
 </div>
     
 <h4 align="left"> Languages:</h4>
-<img src="https://skillicons.dev/icons?i=java,python,swift,r,mysql,sqlite&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,python,swift,r&theme=light" />
 
 <h4 align="left"> DB:</h4>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=light" />
