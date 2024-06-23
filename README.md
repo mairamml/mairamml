@@ -2,7 +2,6 @@
 
 - 💻 I’m currently studying **Statistcs** at ***UFMG*** and **Mobile Development** at ***COLTEC/UFMG***
 - 🌐 From Belo Horizonte, Minas Gerais - **Brazil** 🇧🇷
-- 🔋 I'm into photography, cinema, and playing handball
 
 <div>  
   <a href="https://www.linkedin.com/in/mairamaml" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -10,6 +9,9 @@
     
 <h4 align="left"> Languages:</h4>
 <img src="https://skillicons.dev/icons?i=java,python,swift,r,mysql,sqlite&theme=light" />
+
+<h4 align="left"> DB:</h4>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=light" />
     
 <h4 align="left">Tools:</h4>
 <img src="https://skillicons.dev/icons?i=notion,vscode,github,visualstudio,androidstudio,figma&theme=light" />
