@@ -1,7 +1,7 @@
 ## Hi there,  I'm Maíra ☀️🌈 👋
 
 - 💻 I’m currently studying **Statistcs** at ***UFMG*** and **Mobile Development** at ***COLTEC/UFMG***
-- 🌐 From Belo Horizonte, Minas Gerais - **Brazil** 🇧🇷
+- 🌐 From Minas Gerais - **Brazil** 🇧🇷
 
 <div>  
   <a href="https://www.linkedin.com/in/mairamaml" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
