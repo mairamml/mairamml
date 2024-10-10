@@ -8,13 +8,13 @@
 </div>
     
 <h4 align="left"> Languages:</h4>
-<img src="https://skillicons.dev/icons?i=java,python,swift,r&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,python,r&theme=light" />
 
 <h4 align="left"> DB:</h4>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=light" />
     
 <h4 align="left">Tools:</h4>
-<img src="https://skillicons.dev/icons?i=notion,vscode,github,visualstudio,androidstudio,figma&theme=light" />
+<img src="https://skillicons.dev/icons?i=notion,vscode,github,androidstudio&theme=light" />
     
 <h4 align="left">SO:</h4>
 <img src="https://skillicons.dev/icons?i=windows,apple,linux&theme=light" />
