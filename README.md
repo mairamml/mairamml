@@ -1,6 +1,6 @@
 ## Hi there,  I'm Maíra ☀️🌈 👋
 
-- 💻 I’m currently studying **Statistcs** at ***UFMG*** and **Mobile Development** at ***COLTEC/UFMG***
+- 💻 I’m currently studying **Statistcs** at ***UFMG***
 - 🌐 From Minas Gerais - **Brazil** 🇧🇷
 
 <div>  
@@ -8,7 +8,7 @@
 </div>
     
 <h4 align="left"> Languages:</h4>
-<img src="https://skillicons.dev/icons?i=java,python,r,sql&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,r,sql&theme=light" />
 
 <h4 align="left"> DB:</h4>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=light" />
